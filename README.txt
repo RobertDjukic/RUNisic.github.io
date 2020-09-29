@@ -1,6 +1,7 @@
 Team Name: Group-15 (RUNisic)
 Member names and student numbers: 
     - Muhammad Muizz Zafar - 300186804 
+    - Victoria Cimpu - 300166264
 Product name:
     - RUNisic running shoes
 Product description: 
