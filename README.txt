@@ -3,6 +3,7 @@ Member names and student numbers:
     - Muhammad Muizz Zafar - 300186804 
     - Victoria Cimpu - 300166264
     - Uyen Nguyen - 300173303
+    - Aimen Mossa - 300209397
 Product name:
     - RUNisic running shoes
 Product description: 
